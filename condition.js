@@ -55,6 +55,7 @@ if(isRaining === false || money >= taxi){
 
 
 var isRaining = false;
+ 
 var haveUmbrella = true;
 
 if(isRaining === true){
